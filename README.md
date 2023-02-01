@@ -5,3 +5,5 @@
 ###### [王诗雨无跳动爱心](https://jljx.github.io/hfve.html)
 
 ###### [陈雅婷无跳动爱心](https://jljx.github.io/khve.html)
+
+###### [陈雅婷跳动爱心](https://jljx.github.io/ljve.html)
