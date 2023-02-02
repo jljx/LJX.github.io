@@ -21,3 +21,5 @@
 ###### [字幕](https://jljx.github.io/eeee.html)
 
 ###### [水波字幕](https://jljx.github.io/jjjj.html)
+
+###### [渐变文字](https://jljx.github.io/gggg.html)
