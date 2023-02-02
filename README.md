@@ -24,4 +24,4 @@
 
 ###### [渐变文字](https://jljx.github.io/gggg.html)
 
-###### [李欣洋](https://jljx.github.io/oooo.html)
+###### [李欣洋字幕](https://jljx.github.io/oooo.html)
