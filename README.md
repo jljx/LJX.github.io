@@ -26,4 +26,5 @@
 
 ###### [李欣洋字幕](htts://jljx.github.io/oooo.html)
 
-######［表白］(https://jljx.github.io/bbbb.html)
+###### [表白](https://jljx.github.io/bbbb.html)
+
