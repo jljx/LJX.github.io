@@ -1,3 +1,5 @@
+###### [烟花](https://jljx.github.io/index.html)
+
 ###### [原神](https://jljx.github.io/ys.html)
 
 ###### [小游戏](https://jljx.github.io/ljxcxk.html)
