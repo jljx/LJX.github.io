@@ -1,8 +1,8 @@
-###### [烟花](https://ljx.github.io/yh.html)
+###### [烟花](https://jljx.github.io/yh.html)
 
 ###### [原神](https://ljx.github.io/ys.html)
 
-###### [小游戏](https://ljx.github.io/ljxcxk.html)
+###### [小游戏](https://LJX.github.io/ljxcxk.html)
 
 ###### [无跳动爱心](https://ljx.github.io/Love.html)
 
